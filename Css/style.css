@@ -480,6 +480,9 @@ footer .container .footerLinks a{
     .projects .container .project {
       width: 80%;
     }
+    .projects .container .project button{
+        padding: 5px 10px;
+    }
   
     .contact .container {
       flex-direction: column;
@@ -487,7 +490,9 @@ footer .container .footerLinks a{
     }
   
     .contact .container .cardOfMe {
-      width: 90%;
+      width: 80%;
+      margin: 10px auto;
+
     }
   
     header .container .navLinks ul li {
