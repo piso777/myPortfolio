@@ -304,7 +304,7 @@ header .container .navLinks ul li a:hover{
 
 .projects .container .project button{
     display: block;
-    padding: 10px 20px;
+    padding: 10px 10px;
     margin: 0 auto;
     align-self: center;
     border-radius: 20px;
